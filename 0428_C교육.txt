@@ -50,10 +50,8 @@ char arr[10] = "char arr"; //나머지 부분은 0으로 초기화 됨
 
 Pointer and const prefix
 point에서 const는 *수 만큼 붙일 수 있다.
+dsdfsdfsdf
 
-const char *a = (char*)0x1000;
-char * const a = (char*)0x1000;
-const char* const a = (char*)0x1000;
 
 함수이름이 포인터, 즉 주소
 printf("0x%p\n", main);
